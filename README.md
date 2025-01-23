@@ -7,5 +7,3 @@
 
 - Make an account on [gitpod.io](https://gitpod.io)
 - Open an IDE using [this link](https://gitpod.io/#https://github.com/khanAston/PLC2025).
-
-test
